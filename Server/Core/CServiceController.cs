@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ServiceModel;
 using System.Timers;
+using Contract;
 namespace Server.Core
 {
   public class CServiceController : IDisposable
